@@ -1,6 +1,7 @@
 # Twitter_Post
 
-<a href="http://im2.ezgif.com/tmp/ezgif.com-890a0d20da"><img scr="http://im2.ezgif.com/tmp/ezgif.com-890a0d20da.gif"/></a>
+<a href="http://im2.ezgif.com/tmp/ezgif.com-890a0d20da"><img scr="http://im2.ezgif.com/tmp/ezgif.com-890a0d20da.gif" title = "made at ezgif.com"/></a>
+
 Twitter Post Controller
 
 Twitter_Post is a custom post upload controller that allows you to quickly intergate a full post uploading system with GoogleLocationpicker, PhotoLibrary view, CameraManager, photo and video editor.

@@ -9,9 +9,9 @@ Twitter_Post is a custom post upload controller that allows you to quickly inter
 I used some awesome libraries as well to be able to build it.
 
 
-### Small Print
-<a>ICGTrimmer</a>
-GooglePlacesAutocomplete
+### Thanks
+<h>ICGTrimmer</h>
+<h>GooglePlacesAutocomplete</h>
 Alamofire
 MBProgressHUD
 KVNProgress

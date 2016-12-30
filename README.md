@@ -1,9 +1,8 @@
 # Twitter_Post
-GIF
+## GIF
 
-<a>
-<img height: "400" scr="https://github.com/csontosgabor/Twitter_Post/blob/master/demo.gif" />
-</a>
+<a href="https://github.com/csontosgabor/Twitter_Post/blob/master/demo.gif"><img src="https://github.com/csontosgabor/Twitter_Post/blob/master/demo.gif" style="max-width:100%;"></a>
+
 
 
 Twitter Post Controller

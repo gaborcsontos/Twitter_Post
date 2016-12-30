@@ -1,4 +1,4 @@
-//
+////
 //  AppDelegate.swift
 //  Twitter_Post
 //
@@ -8,6 +8,10 @@
 
 import UIKit
 
+//import AlamofireNetworkActivityIndicator
+
+
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -16,9 +20,35 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+    
+        window = UIWindow(frame: UIScreen.main.bounds)
+        window?.makeKeyAndVisible()
+        
+        let nav = UINavigationController(rootViewController: ViewController())
+        window?.rootViewController = nav
+        
+        
+        //Alamofire NetworkIndicator///////////////////////////////////////////////
+        
+        //  NetworkActivityIndicatorManager.shared.isEnabled = true
+        
+        //////////////////////////////////////////////////////////////////////////////////////////////
+        
+        
+        
+        
         return true
     }
 
+    
+    
+    
+    
+    
+    
+    
+    
     func applicationWillResignActive(_ application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
         // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.

@@ -20,10 +20,6 @@ KVNProgress
 
 Twitter_Post is released under the MIT license.
 
-## Dependencies
-Author
-
-Gabor Csontos (https://dribbble.com/gaborcsontos)
 
 ## Donate
 <p>If this project help you reduce time to develop, you can give me a cup of coffee :) </p>
